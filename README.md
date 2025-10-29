@@ -1,7 +1,9 @@
 # bulk-RNA-seq-colab
 Bulk RNA-seq analysis workflow (Salmon, tximport, edgeR/limma-voom, CAMERA/FRY) for gene expression and gene set enrichment analysis.
 
-Please open the noteobok directly in Google Colab to view:
+Open the notebook directly in Colab, or view in the GitHub project repo
+----------------------------------------------------------------------------
+
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17Lot7zaajADnt8dpoGkm5evj47LnRUjL)
 
